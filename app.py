@@ -5,7 +5,7 @@ import pandas as pd
 #tkinter definitions
 root = Tk()
 root.title('VN2R App') #Title of application. Showed in the header.
-root.iconbitmap('Y:/00-MARLON MATOS/icone.ico') #Icon of the application. Showed in the header.
+root.iconbitmap('C:\icone.ico') #Icon of the application. Showed in the header.
 root.geometry('600x200') #Height and width of the window
 
 res = [] #Defining a variable to be a list
